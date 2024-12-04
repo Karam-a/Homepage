@@ -1,0 +1,56 @@
+{
+    "experiences": [
+        {
+            "title":"Service Manager",
+            "company":"Örebro Kårhusrestaurang AB",
+            "period":"2022 May - Present",
+            "description":"Leading teams of students through nightclubs, pubs and miscellaneous events thorough their shift. My role is to ensure the team is fully equipped with all necessary knowledge, including their position and according laws, to make it through the night!"
+        },
+        {
+            "title":"IT-Consultant",
+            "company":"Swedish Police Authority",
+            "period":"2024 May - 2024 Sep",
+            "description":"Full-time consultant through Academic Work as an internal second-line IT-technician at the swedish Police Authority."
+        }, 
+        {
+            "title":"IT-Technician",
+            "company":"Hemfixare AB",
+            "period":"2019 Feb - 2024 Feb",
+            "description":"Gig-job, composed of mixed assignments in various areas of home-tech. Most assignments involve troubleshooting and maintenance of network devices and home PCs. Others consist of WiFi set-up in single houses and/or areas, installation of hardware on PCs and servers, and installation of various devices such as TVs and home entertainment systems."
+        }, 
+        {
+            "title":"Receptionist",
+            "company":"Ad Astra by Elite",
+            "period":"2023 Jun - 2023 Aug",
+            "description":"Summer job as a night receptionist at Ad Astra by Elite, where I met and assisted guests with Check-in/-out, bookings and general tourism info."
+        }, 
+        {
+            "title":"Receptionist",
+            "company":"Almnäs Park Hotel AB",
+            "period":"2019 Jun - 2022 Feb",
+            "description":"Receptionist and Generalist at Almnäs Park Hotel. The main work includes check-ins/check-outs, as well as helping customers and company associates by assessing with tasks and miscellaneous questions regarding the hotel and nearby city. The job also included an administrative aspect such as responding to E-mails, booking services to guest requests, and handling simpler economic reports."
+        }, 
+        {
+            "title":"IT-Technician",
+            "company":"RDM Ljud & Ljus AB",
+            "period":"2019 Nov - 2022 Jan",
+            "description":"Part-time job consisting of assistance with IoT devices, software, and hardware installation, both internally and externally. Assisting other employees with montage and dismantling of audio and visual devices was a frequent part of the job."
+        }, 
+        {
+            "title":"Waiter",
+            "company":"Scandic Hotels",
+            "period":"2017 Jul - 2019 aug",
+            "description":"A job with somewhat mixed responsibilities, mainly taking and serving orders to customers in the hotel's restaurant, preparing the breakfast buffet, and simply ensuring all guests a satisfying experience."
+        }
+    ], 
+    "projects": [
+        {
+            
+        }
+    ], 
+    "aboutMe": [
+        {
+
+        }
+    ]
+}

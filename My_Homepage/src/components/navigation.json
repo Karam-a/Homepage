@@ -1,0 +1,24 @@
+{
+    "menuItems": [
+        {
+            "id": "about",
+            "textLabel": "About", 
+            "icon": "User"
+        },
+        {
+            "id": "experience",
+            "textLabel": "Experience",
+            "Briefcase": "Briefcase"
+        },
+        {
+            "id": "projects",
+            "textLabel": "Projects",
+            "Briefcase": "Code"
+        },
+        {
+            "id": "contact",
+            "textLabel": "Contact me!",
+            "Briefcase": "Mail"
+        }
+    ]
+}
