@@ -45,7 +45,34 @@
     ], 
     "projects": [
         {
-            
+            "title":"RSS-feed program for podcasts",
+            "description":"An RSS-feed capturing software as a univeristy project, utilizing repository patterns and a three-layer architecture",
+            "techstack":["C#"],
+            "link": ""
+        },
+        {
+            "title":"Website for a student union",
+            "description":"A re-design of a website for SOBRA; a student union section at Örebro University.",
+            "techstack": ["Wix Website Builder"],
+            "link": "https://sobrasektionen.com"
+        },
+        {
+            "title":"",
+            "description":"",
+            "techstack":"",
+            "link": ""
+        },
+        {
+            "title":"",
+            "description":"",
+            "techstack":"",
+            "link": ""
+        },
+        {
+            "title":"",
+            "description":"",
+            "techstack":"",
+            "link": ""
         }
     ], 
     "aboutMe": [
