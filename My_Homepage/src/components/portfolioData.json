@@ -50,7 +50,10 @@
     ], 
     "aboutMe": [
         {
-
+            "name": "Karam Al-Akhras",
+            "title": "Informatics student & Junior Developer",
+            "email": "Karam.al-akhras@outlook.com",
+            "bio": ""
         }
     ]
 }
