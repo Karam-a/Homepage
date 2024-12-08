@@ -46,9 +46,9 @@
     "projects": [
         {
             "title":"RSS-feed program for podcasts",
-            "description":"An RSS-feed capturing software as a univeristy project, utilizing repository patterns and a three-layer architecture",
+            "description":"An RSS-feed capturing software as a univeristy project, utilizing repository patterns, serialization and a three-layer architecture",
             "techstack":["C#"],
-            "link": ""
+            "link": "https://github.com/dalyaaltorok/PoddGrupp24"
         },
         {
             "title":"Website for a student union",
@@ -57,22 +57,16 @@
             "link": "https://sobrasektionen.com"
         },
         {
-            "title":"",
-            "description":"",
-            "techstack":"",
+            "title":"Website for a game dev",
+            "description":"A website made with (mostly) pure HTML, CSS and JS, with some instances of VueJs as part of a course. A live version's available at the link, while the source code's available on my GitHub!",
+            "techstack": ["HTML", "CSS", "JavaScript", "VueJs"],
             "link": ""
         },
         {
-            "title":"",
-            "description":"",
-            "techstack":"",
-            "link": ""
-        },
-        {
-            "title":"",
-            "description":"",
-            "techstack":"",
-            "link": ""
+            "title":"Java app for a hatmaker",
+            "description":"As part of a course, my group and I created a simple program for a fictional hatmaker, including order management, a sample database and login functionality.",
+            "techstack": ["Java", "MySQL"],
+            "link": "https://github.com/Karam-a/hatt"
         }
     ], 
     "aboutMe": [
